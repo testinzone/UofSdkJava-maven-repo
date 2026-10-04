@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.testinzone.unifiedodds.sdk</groupId>
+  <artifactId>unified-feed-sdk</artifactId>
+  <versioning>
+    <versions>
+      <version>3.3.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20261004181332</lastUpdated>
+  </versioning>
+</metadata>
